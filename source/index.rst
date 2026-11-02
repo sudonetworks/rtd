@@ -18,4 +18,28 @@ documentation for details.
 Indices and Tables
 ==================
 
-* :ref: `genindex`
+.. toctree::
+   :maxdepth: 2
+   :caption: Certifications & Blueprints
+
+   certifications/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Infrastructure & Security
+
+   enterprise-networking/index
+   network-security/index
+   cloud-infrastructure/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Automation & Programmability
+
+   automation-devnet/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Field Engineering
+
+   playbooks-runbooks/index
