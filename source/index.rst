@@ -15,18 +15,21 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
-Indices and Tables
-==================
+
+5udoNetz Documentation
+======================
+
+Central knowledge base for enterprise networking, security architecture, and automation engineering.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Certifications & Blueprints
+   :caption: Certifications
 
    certifications/index
 
 .. toctree::
    :maxdepth: 2
-   :caption: Infrastructure & Security
+   :caption: Architecture & Engineering
 
    enterprise-networking/index
    network-security/index
@@ -34,12 +37,12 @@ Indices and Tables
 
 .. toctree::
    :maxdepth: 2
-   :caption: Automation & Programmability
+   :caption: Automation
 
    automation-devnet/index
 
 .. toctree::
    :maxdepth: 1
-   :caption: Field Engineering
+   :caption: Operations
 
    playbooks-runbooks/index

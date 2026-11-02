@@ -15,7 +15,34 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
-Indices and Tables
-==================
 
-* :ref: `genindex`
+5udoNetz Documentation
+======================
+
+Central knowledge base for enterprise networking, security architecture, and automation engineering.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Certifications
+
+   certifications/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Architecture & Engineering
+
+   enterprise-networking/index
+   network-security/index
+   cloud-infrastructure/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Automation
+
+   automation-devnet/index
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Operations
+
+   playbooks-runbooks/index

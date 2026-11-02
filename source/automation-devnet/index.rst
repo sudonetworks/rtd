@@ -1,0 +1,14 @@
+Automation & Programmability
+============================
+
+Network programmability, Infrastructure-as-Code (IaC), API integrations, and CI/CD pipelines.
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Tooling & Frameworks
+
+   python-tools/index
+   data-models/index
+   iac-orchestration/index
+   containers-ci-cd/index
+   
