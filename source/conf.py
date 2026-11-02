@@ -15,7 +15,7 @@ author = 'SudoNets'
 
 extensions = []
 
-templates_path = ['_templates']
+templates_path = ['sphinx-rtd-theme']
 exclude_patterns = []
 
 
