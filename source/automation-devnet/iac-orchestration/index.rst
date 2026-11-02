@@ -11,13 +11,3 @@ Is a declarative solution where you state the intent via *.tf* file with the req
 Ansible
 -------
 Ansible is a procedural based and requires you to write the desired state in a yaml file. 
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Tooling & Frameworks
-
-   python-tools/index
-   data-models/index
-   iac-orchestration/index
-   containers-ci-cd/index
-   
